@@ -22,3 +22,6 @@ See `CHANGELOG.rst`_ for the complete changelog.
 .. _CoffeeScript: http://coffeescript.org/
 .. _Jinja2: http://jinja.pocoo.org/
 .. _CHANGELOG.rst: https://bitbucket.org/wkornewald/django-mediagenerator/src/tip/CHANGELOG.rst
+
+
+This version is modified to use django-mediagenerator with Django1.9
