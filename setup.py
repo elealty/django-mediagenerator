@@ -7,7 +7,7 @@ try:
 except:
     pass
 
-setup(name='django-mediagenerator',
+setup(name='django1.9-mediagenerator',
       version='1.11',
       packages=find_packages(exclude=('tests', 'tests.*',
                                       'base_project', 'base_project.*')),
